@@ -7,3 +7,10 @@
 
 
 3. import Http in mygit.js
+
+
+4. npm install
+
+4.5 gulp?
+
+5. npm start
